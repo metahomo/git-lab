@@ -10,4 +10,6 @@
 - 깃 용어: init, add, commit, status, diff
 - 로컬 Repository 중요성
 
-- 나는 잘 모르겠다.
+## 원격 연결
+
+- 원격 연결 후 github에서 작성한 문장입니다.
